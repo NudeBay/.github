@@ -1,12 +1,30 @@
-## Hi there 👋
+# Welcome to the NudeBay 👋
 
-<!--
+![NudeBay logo]([nudebay_logo_centered.png](https://github.com/NudeBay/.github/blob/df7c1d22d07986f8159300389df24c06946f8471/nudebay_logo_centered.png))
+lorem ipsum
 
-**Here are some ideas to get you started:**
+## Get started with NudeBay!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Join the community: [Sign up](404). 🌈 Everyone is welcome!<br>
+Or already have an account: [Log in](404). 
+
+## Featured
+
+- Support on every type of browser
+- Secured database
+- Helpful support 
+- Chats and communicate with others easily
+- Fast and helpful support 
+- Paid subscriptions and donates for creators
+- High quality of uploaded photos and videos
+- Newest technologies
+- Restful API
+
+## Feedback
+
+We would love to hear your feedback after using our site. If you found a bug please report it using github [join disscusion](https://github.com/orgs/NudeBay/discussions/new/choose).
+Feedbacks are always much appreciated.
+
+***WORK IN PROGRESS***
+***WORK IN PROGRESS***
+***WORK IN PROGRESS***
