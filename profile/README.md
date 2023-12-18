@@ -1,6 +1,6 @@
 # Welcome to the NudeBay 👋
 
-![NudeBay logo](https://github.com/NudeBay/.github/blob/df7c1d22d07986f8159300389df24c06946f8471/nudebay_logo_centered.png)
+<!-- ![NudeBay logo](https://github.com/NudeBay/.github/blob/df7c1d22d07986f8159300389df24c06946f8471/nudebay_logo_centered.png) -->
 lorem ipsum
 
 ## Get started with NudeBay!
